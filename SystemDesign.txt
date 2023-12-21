@@ -1,0 +1,9 @@
+1. https://sbcode.net/python/environment_setup/
+2. https://github.com/Sean-Bradley/Design-Patterns-In-Python
+3. 
+4. 
+
+
+Software Architechture Pattern
+
+1. https://www.geeksforgeeks.org/types-of-software-architecture-patterns/
